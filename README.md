@@ -27,16 +27,19 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+## Desktop Veiw
 ![product-page1](https://user-images.githubusercontent.com/99991521/181876456-b8470d8a-8a34-4b43-9ab6-a45324c3563e.PNG)
+## Mobile Veiw
 ![product-page2](https://user-images.githubusercontent.com/99991521/181876457-2014eb37-7759-4241-a7a9-ff657890cddd.PNG)
+## Active Veiw
 ![product-page3](https://user-images.githubusercontent.com/99991521/181876459-06778f3b-ff73-4951-9547-8eb4992fbcec.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mihir2226.github.io/product-preview-card-component/)
+- Solution URL: [Click here](https://github.com/mihir2226/product-preview-card-component)
+- Live Site URL: [Click here](https://mihir2226.github.io/product-preview-card-component/)
 
 ## My process
 
